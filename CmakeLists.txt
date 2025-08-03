@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.15)
+project(BMPready)
+
+add_executable(BMPready
+    source/BMPready.cpp
+    source/BMPready.h
+    source/Test.cpp
+)
